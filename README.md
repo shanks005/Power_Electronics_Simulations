@@ -9,6 +9,7 @@ As part of my research interest in power electronics, this repository contains c
 
 🔄 AC-AC Converters
 
+
 🛠️ Simulations Overview
 These simulations are built using MATLAB Simulink in the initial stage. The repository will be progressively updated with more complex simulations, such as:
 
@@ -19,6 +20,8 @@ These simulations are built using MATLAB Simulink in the initial stage. The repo
 📉 Device Characteristics Analysis
 
 🤖 Power Electronics with Machine Learning Projects
+
+
 
 📚 References
 The simulations and concepts are inspired by the following power electronics courses:
